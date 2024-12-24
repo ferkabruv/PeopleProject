@@ -1,0 +1,11 @@
+D:\suli\szoftverteszt\PeopleProject1\PeopleProject1\bin\Debug\net8.0\PeopleProject1.deps.json
+D:\suli\szoftverteszt\PeopleProject1\PeopleProject1\bin\Debug\net8.0\PeopleProject1.dll
+D:\suli\szoftverteszt\PeopleProject1\PeopleProject1\bin\Debug\net8.0\PeopleProject1.pdb
+D:\suli\szoftverteszt\PeopleProject1\PeopleProject1\obj\Debug\net8.0\PeopleProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\suli\szoftverteszt\PeopleProject1\PeopleProject1\obj\Debug\net8.0\PeopleProject1.AssemblyInfoInputs.cache
+D:\suli\szoftverteszt\PeopleProject1\PeopleProject1\obj\Debug\net8.0\PeopleProject1.AssemblyInfo.cs
+D:\suli\szoftverteszt\PeopleProject1\PeopleProject1\obj\Debug\net8.0\PeopleProject1.csproj.CoreCompileInputs.cache
+D:\suli\szoftverteszt\PeopleProject1\PeopleProject1\obj\Debug\net8.0\PeopleProject1.dll
+D:\suli\szoftverteszt\PeopleProject1\PeopleProject1\obj\Debug\net8.0\refint\PeopleProject1.dll
+D:\suli\szoftverteszt\PeopleProject1\PeopleProject1\obj\Debug\net8.0\PeopleProject1.pdb
+D:\suli\szoftverteszt\PeopleProject1\PeopleProject1\obj\Debug\net8.0\ref\PeopleProject1.dll
